@@ -18,6 +18,3 @@ To run the Java Banking App:
 
 ## Usage
 After running the application, you can interact with the banking system through the console. It allows you to perform various banking operations like creating accounts, making transactions, and viewing account details.
-
-## Contributing
-Contributions to the Java Banking App project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
